@@ -1,0 +1,7 @@
+vpc_name           = "tensorgo-vpc"
+cidr_block1        = "10.1.0.0/16"
+env                = "dev"
+cidr_block_subnet1 = "10.1.1.0/24"
+cidr_block_subnet2 = "10.1.2.0/24"
+imagename          = "ami-0e001c9271cf7f3b9"
+region             = "us-east-1"
